@@ -1,7 +1,7 @@
-package factory.v1.Factory.Impl;
+package factory.v1.factory.Impl;
 
-import factory.v1.Bread.Bread;
-import factory.v1.Factory.AbstractBreadFactory;
+import factory.v1.bread.Bread;
+import factory.v1.factory.AbstractBreadFactory;
 
 public class BreadFactory extends AbstractBreadFactory {
     @Override

@@ -1,11 +1,11 @@
 package factory.v1;
 
-import factory.v1.Bread.Bread;
-import factory.v1.Bread.Impl.BlackBearBread;
-import factory.v1.Bread.Impl.BrownBearBread;
-import factory.v1.Bread.Impl.PolarBearBread;
-import factory.v1.Factory.AbstractBreadFactory;
-import factory.v1.Factory.Impl.BreadFactory;
+import factory.v1.bread.Bread;
+import factory.v1.bread.impl.BlackBearBread;
+import factory.v1.bread.impl.BrownBearBread;
+import factory.v1.bread.impl.PolarBearBread;
+import factory.v1.factory.AbstractBreadFactory;
+import factory.v1.factory.Impl.BreadFactory;
 
 public class chef {
     public static void main(String[] args) {

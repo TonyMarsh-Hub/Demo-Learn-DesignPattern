@@ -1,6 +1,6 @@
-package factory.v1.Bread.Impl;
+package factory.v1.bread.impl;
 
-import factory.v1.Bread.Bread;
+import factory.v1.bread.Bread;
 
 public class BrownBearBread implements Bread {
     @Override
