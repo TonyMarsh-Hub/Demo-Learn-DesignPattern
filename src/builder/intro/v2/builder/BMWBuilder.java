@@ -1,7 +1,7 @@
-package builder.v2.builder;
+package builder.intro.v2.builder;
 
-import builder.v2.car.BMW;
-import builder.v2.car.CarModel;
+import builder.intro.v2.car.BMW;
+import builder.intro.v2.car.CarModel;
 
 import java.util.ArrayList;
 

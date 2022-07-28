@@ -1,7 +1,7 @@
-package builder.v2;
+package builder.intro.v2;
 
-import builder.v2.car.BMW;
-import builder.v2.car.Benz;
+import builder.intro.v2.car.BMW;
+import builder.intro.v2.car.Benz;
 
 public class Client {
     public static void main(String[] args) {

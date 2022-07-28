@@ -1,4 +1,4 @@
-package builder.v2.car;
+package builder.intro.v1.car;
 
 public class BMW extends CarModel {
 

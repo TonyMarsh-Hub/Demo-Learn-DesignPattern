@@ -1,9 +1,9 @@
-package builder.v2;
+package builder.intro.v2;
 
-import builder.v2.builder.BMWBuilder;
-import builder.v2.builder.BenzBuilder;
-import builder.v2.car.BMW;
-import builder.v2.car.Benz;
+import builder.intro.v2.builder.BMWBuilder;
+import builder.intro.v2.builder.BenzBuilder;
+import builder.intro.v2.car.BMW;
+import builder.intro.v2.car.Benz;
 
 import java.util.ArrayList;
 

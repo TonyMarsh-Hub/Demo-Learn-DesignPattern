@@ -1,4 +1,4 @@
-package builder.v1.car;
+package builder.intro.v2.car;
 
 public class Benz extends CarModel {
 
