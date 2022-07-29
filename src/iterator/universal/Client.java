@@ -1,6 +1,7 @@
 package iterator.universal;
 
-public class Client {
+public class
+Client {
     public static void main(String[] args) {
         Aggregate ag = new ConcreteAggregate();
         ag.add("赵丽颖");

@@ -5,8 +5,6 @@ package iterator.universal;
  */
 public interface Aggregate {
     void add(Object obj);
-
     boolean remove(Object obj);
-
     Iterator iterator();
 }
